@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🧑‍🦱 About Me:
 Hey, I'm Lagnajit 👋<br><br>🔭I am currently learning Web Development (Frontend specially) & UI/ UX.<br>⚡I am also passionate about Web 3D, Motion graphics & 3D Animation.<br>
 
 
